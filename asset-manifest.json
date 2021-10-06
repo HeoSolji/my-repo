@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-repo/static/css/main.a617e044.chunk.css",
+    "main.js": "/my-repo/static/js/main.61902249.chunk.js",
+    "main.js.map": "/my-repo/static/js/main.61902249.chunk.js.map",
+    "runtime-main.js": "/my-repo/static/js/runtime-main.5a07741a.js",
+    "runtime-main.js.map": "/my-repo/static/js/runtime-main.5a07741a.js.map",
+    "static/js/2.cd6fbb4e.chunk.js": "/my-repo/static/js/2.cd6fbb4e.chunk.js",
+    "static/js/2.cd6fbb4e.chunk.js.map": "/my-repo/static/js/2.cd6fbb4e.chunk.js.map",
+    "static/js/3.93a31d98.chunk.js": "/my-repo/static/js/3.93a31d98.chunk.js",
+    "static/js/3.93a31d98.chunk.js.map": "/my-repo/static/js/3.93a31d98.chunk.js.map",
+    "index.html": "/my-repo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/my-repo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cd6fbb4e.chunk.js.LICENSE.txt": "/my-repo/static/js/2.cd6fbb4e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-repo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a07741a.js",
+    "static/js/2.cd6fbb4e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.61902249.chunk.js"
+  ]
+}
